@@ -1,6 +1,6 @@
 # Security engineering, research, and programming
 
-I work in cybersecurity, with experience in network and digital analysis and technical leadership. I am pursuing a graduate degree in cybersecurity at NYU Tandon.
+I work in cybersecurity, with experience in network, digital analysis and technical leadership. I am pursuing a graduate degree in cybersecurity at NYU Tandon.
 
 This GitHub brings together practical automation, developing security projects, and programming foundations. Project documentation distinguishes working utilities, prototypes, learning exercises, and planned work.
 
