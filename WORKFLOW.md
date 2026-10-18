@@ -3,7 +3,8 @@
 ## Choose a home
 
 - Related automation: use the existing Python, Bash, or PowerShell collection.
-- Programming practice: use a learning collection and label book/course sources.
+- C++ practice: use `programming-foundations/cpp/<descriptive-name>/`.
+- Python practice: use the existing learning collections and label book/course sources.
 - A project with its own purpose, dependencies, and development path: consider a separate repository.
 - Raw captures, VM images, backups, and large datasets: keep them in suitable storage; use safe examples and references in Git.
 - Credentials and unsanitized operational material: keep them in appropriate secure storage pending a release decision.

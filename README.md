@@ -20,6 +20,8 @@ AI security and vulnerability/reverse-engineering research are development direc
 
 ## Programming foundations
 
+[C++ exercises now share one collection](https://github.com/nix-daemon/programming-foundations), with their original histories preserved.
+
 [Browse the learning index](LEARNING.md) for Python exercises, book-guided projects, and introductory C/C++ programs.
 
 ## How I use this GitHub
