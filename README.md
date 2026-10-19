@@ -4,6 +4,16 @@ I work in cybersecurity, with experience in network, digital analysis and techni
 
 This GitHub brings together practical automation, developing security projects, and programming foundations. Project documentation distinguishes working utilities, prototypes, learning exercises, and planned work.
 
+## Featured Projects
+
+### Cybersecurity Lab Architecture & Segmentation
+
+Designed and validated a segmented Proxmox/OPNsense lab for DFIR, development, and authorized offensive-security work, with default-deny trust boundaries, WireGuard remote administration, and positive/negative firewall validation.
+
+**Technologies:** Proxmox VE, OPNsense, WireGuard, Kali Linux, SIFT, Windows DFIR, Fedora Linux
+
+[View the project →](https://github.com/nix-daemon/cybersecurity-lab-architecture)
+
 ## Security engineering and automation
 
 | Collection | Current work | Status |
