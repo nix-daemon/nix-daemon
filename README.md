@@ -4,7 +4,7 @@ I work in cybersecurity, with experience in network, digital analysis and techni
 
 This GitHub brings together practical automation, developing security projects, and programming foundations. Project documentation distinguishes working utilities, prototypes, learning exercises, and planned work.
 
-## Featured Projects
+## Featured Project
 
 ### Cybersecurity Lab Architecture & Segmentation
 
