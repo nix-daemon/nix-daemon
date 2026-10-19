@@ -14,6 +14,16 @@ Designed and validated a segmented Proxmox/OPNsense lab for DFIR, development, a
 
 [View the project →](https://github.com/nix-daemon/cybersecurity-lab-architecture)
 
+## Selected Projects
+
+### Secure Remote Administration Architecture
+
+Designed and validated a least-privilege WireGuard remote-administration architecture for a segmented Proxmox/OPNsense cybersecurity lab, using split-tunnel routing, restricted management access, cross-platform administration, negative-control testing, and PF troubleshooting.
+
+**Technologies:** OPNsense, WireGuard, Fedora Linux, OpenSSH, PowerShell 7, RDP, PF, DDNS
+
+[View the project →](https://github.com/nix-daemon/secure-remote-administration)
+
 ## Security engineering and automation
 
 | Collection | Current work | Status |
