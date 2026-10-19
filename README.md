@@ -1,8 +1,8 @@
-# Security engineering, research, and programming
+# Johnathan Rutherford
 
-I work in cybersecurity, with experience in network, digital analysis and technical leadership. I am pursuing a graduate degree in cybersecurity at NYU Tandon.
+Principal-level cybersecurity practitioner focused on threat hunting, detection engineering, incident response, DFIR, security automation, and security engineering.
 
-This GitHub brings together practical automation, developing security projects, and programming foundations. Project documentation distinguishes working utilities, prototypes, learning exercises, and planned work.
+I am currently pursuing an M.S. in Cybersecurity at NYU Tandon. This GitHub contains practical security projects, automation, research, and programming work, with clear separation between operational projects, prototypes, and learning exercises.
 
 ## Featured Project
 
