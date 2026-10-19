@@ -24,6 +24,15 @@ Designed and validated a least-privilege WireGuard remote-administration archite
 
 [View the project →](https://github.com/nix-daemon/secure-remote-administration)
 
+## Research & Technical Writing
+
+### Cross-Site Scripting Whitepaper
+
+Technical analysis of cross-site scripting, including attack mechanics,
+security impact, detection considerations, and mitigation strategies.
+
+[Read the whitepaper →](LINK_TO_REPO_OR_PDF)
+
 ## Security engineering and automation
 
 | Collection | Current work | Status |
