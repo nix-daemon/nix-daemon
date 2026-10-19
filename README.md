@@ -31,7 +31,7 @@ Designed and validated a least-privilege WireGuard remote-administration archite
 Technical analysis of cross-site scripting, including attack mechanics,
 security impact, detection considerations, and mitigation strategies.
 
-[Read the whitepaper →](https://github.com/nix-daemon/Research/cross-site-perils.md)
+[Read the whitepaper →](https://github.com/nix-daemon/Research/blob/main/cross-site-perils.md)
 
 ## Security engineering and automation
 
