@@ -24,6 +24,14 @@ Designed and validated a least-privilege WireGuard remote-administration archite
 
 [View the project →](https://github.com/nix-daemon/secure-remote-administration)
 
+### DFIR Workstation Engineering
+
+Engineered complementary Linux and Windows DFIR workstations in Proxmox with clean baselines, secure remote administration, forensic tooling, and validated recovery workflows. Diagnosed sustained Windows disk saturation by correlating guest behavior with hypervisor storage placement, then migrated the OS disk from HDD-backed storage to SSD-backed `vmstore` and validated normal operation after remediation.
+
+**Technologies:** Proxmox VE, SIFT, Windows 11, OpenSSH, PowerShell 7, RDP, QEMU Guest Agent, QCOW2, VirtIO SCSI, LVM-Thin
+
+[View the project →](https://github.com/nix-daemon/dfir-workstation-engineering)
+
 ## Research & Technical Writing
 
 ### Cross-Site Scripting Whitepaper
