@@ -34,6 +34,3 @@ AI security and vulnerability/reverse-engineering research are development direc
 
 [Browse the learning index](LEARNING.md) for Python exercises, book-guided projects, and introductory C/C++ programs.
 
-## How I use this GitHub
-
-Small useful scripts belong with related work. Projects gain their own repositories when they develop a distinct purpose and development path. [The working routine](WORKFLOW.md) describes how new work is recorded and organized.
